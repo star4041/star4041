@@ -58,3 +58,5 @@ I'm a passionate MERN stack developer with 2.5+ years of experience in building 
    </div>
   </div>
 </div>
+
+<img src="https://i.pinimg.com/originals/e2/c4/b0/e2c4b00229b4a2466dab111708324ec2.png" alt="footer" width="100%">
