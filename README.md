@@ -59,5 +59,15 @@ I'm a passionate MERN stack developer with 2.5+ years of experience in building 
   </div>
 </div>
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=star4041&theme=chartreuse-dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=star4041&show_icons=true&theme=chartreuse-dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star4041&layout=compact&theme=chartreuse-dark)
+
+</div>
+
 <img src="https://i.pinimg.com/originals/e2/c4/b0/e2c4b00229b4a2466dab111708324ec2.png" alt="footer" width="100%">
 <img src="https://i.ibb.co/MgmSdBS/Rainbow.gif" alt="Rainbow" width="100%">
