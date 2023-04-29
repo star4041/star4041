@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/MgmSdBS/Rainbow.gif" alt="Rainbow" width="100%">
 <div align="center"> 
 <img height="300em" width="100%"src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt"Coding"> <br><br>
 </div> 
@@ -60,3 +61,4 @@ I'm a passionate MERN stack developer with 2.5+ years of experience in building 
 </div>
 
 <img src="https://i.pinimg.com/originals/e2/c4/b0/e2c4b00229b4a2466dab111708324ec2.png" alt="footer" width="100%">
+<img src="https://i.ibb.co/MgmSdBS/Rainbow.gif" alt="Rainbow" width="100%">
