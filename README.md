@@ -1,9 +1,9 @@
-<img src="https://i.ibb.co/MgmSdBS/Rainbow.gif" alt="Rainbow" width="100%">
+
 <div align="center"> 
 <img height="300em" width="100%"src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt"Coding"> <br><br>
 </div> 
 <h1 align="center">Hi there, I'm Aksh Sharma 👋</h1>
-
+<img src="https://i.ibb.co/MgmSdBS/Rainbow.gif" alt="Rainbow" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aksh4"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
